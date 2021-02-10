@@ -1,6 +1,6 @@
 {
 "Version":"1.1",
-"Url":"https://raw.githubusercontent.com/lnwseed/firelab/master/config.zip",
+"Url":"https://github.com/lnwseed/firelab/raw/master/config.zip",
 "Changelog":"--------------------------------------------------
 อัพเดท วันที่ 7 กุมภาพันธ์ 2564
 --------------------------------------------------
@@ -18,7 +18,7 @@
 "latestVersion": "1.0",
 "latestVersionCode": "1",
 "url": "",
- "releaseNotes": [
- "-Demo"
+"releaseNotes": [
+"-Demo"
   ]
 }
